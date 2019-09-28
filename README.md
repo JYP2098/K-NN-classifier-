@@ -10,4 +10,4 @@ pandas
 # IDE
 Spyder from Anaconda
 
-Test your own values for salaries and enjoy
+Test your own datasets for classification purposes on KNN
